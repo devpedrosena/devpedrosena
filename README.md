@@ -1,7 +1,7 @@
 # Olá! Eu sou Pedro Sena 👋
 
 ## Sobre mim:
-Sou um desenvolvedor interessado em aprender e desenvolver soluções com as mais modernas tecnologias do mercado. No momento, estou focado em aprimorar minhas habilidades em backend e cloud computing.
+Sou um desenvolvedor interessado em aprender e desenvolver soluções com as mais modernas tecnologias do mercado. No momento, estou focado em aprimorar minhas habilidades em FrontEnd e cloud computing.
 
 ---
 
